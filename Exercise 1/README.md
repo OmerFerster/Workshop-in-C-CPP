@@ -1,1 +1,1 @@
-# ex1 - omerferster
+# exercise1 - omerferster
