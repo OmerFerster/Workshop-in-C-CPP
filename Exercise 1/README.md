@@ -7,7 +7,7 @@
     The main idea behind this exercise is to get familiar with <b>Caeser Cipher</b> and <b>Basic C</b>.
     <br>
     <br>
-    <a href="https://github.com/OmerFerst/Workshop-in-C-CPP"><strong>« Home Page</strong></a>
+    <a href="https://github.com/OmerFerster/Workshop-in-C-CPP"><strong>« Home Page</strong></a>
     <br>
   </p>
 </div>
