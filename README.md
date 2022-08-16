@@ -26,7 +26,7 @@
     <li><a href="./Exercise 2"><b>Exercise 2 - Bus Lines »</b></a></li>
     <ul><li style="list-style: none;">⤷ Sorting algorithms implementation in a Bus Lines program</li></ul>
     <br>
-    <li><a href="./Exercise 3 (A)"><b>Exercise 3 A - Natural Language Processing »</b></a></li>
+    <li><a href="./Exercise 3"><b>Exercise 3 A - Natural Language Processing »</b></a></li>
     <ul><li style="list-style: none;">⤷ An implementation of the Markov Chain model to generate tweets</li></ul>
     <br>
     <li><a href="./Exercise 3 (B)"><b>Exercise 3 B - Snakes and Ladders »</b></a></li>
