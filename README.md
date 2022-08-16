@@ -51,7 +51,7 @@
   <div align="left">
     <a href="./Exercise 2"><img src="./Exercise 2/media/1.png" alt="bus" width="300px" /></a>
     <br>
-    <a href="./Exercise 3 (A)"><img src="./Exercise 3 (A)/media/1.png" alt="tweets" width="300px" /></a>
+    <a href="./Exercise 3 (A)"><img src="./Exercise 3 A/media/1.png" alt="tweets" width="300px" /></a>
     <br>
     <a href="./Exercise 4"><img src="./Exercise 5/media/1.png" alt="recognizer" width="300px" /></a>
   </div>
