@@ -53,7 +53,7 @@
     <br>
     <a href="./Exercise 5"><img src="./Exercise 5/media/1.png" alt="Movie" width="300px" /></a>
     <br>
-    <a href="./Exercise 4"><img src="./Exercise 5/media/1.png" alt="recognizer" width="300px" /></a>
+    <a href="./Exercise 4"><img src="./Exercise 4/media/1.png" alt="recognizer" width="300px" /></a>
   </div>
 </div>
 
