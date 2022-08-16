@@ -4,7 +4,7 @@
   <p align="center">
     <b>Snakes and Ladders</b> is the 3rd (Part B) exercise I've solved in Huji's <b>Programming Workshop in C & C++</b> course.
     <br>
-    The main idea behind this exercise is to get familiar with <b>Make File</b> and <b>Generic Programming</b>.
+    The main idea behind this exercise is to get familiar with: <b>Make File</b> and <b>Generic Programming</b>.
     <br>
     <br>
     <a href="https://github.com/LielAmar/Workshop-in-C-CPP"><strong>« Home Page</strong></a>
