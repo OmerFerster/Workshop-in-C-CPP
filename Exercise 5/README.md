@@ -7,7 +7,7 @@
     The main idea behind this exercise is to get familiar with <b>STL Data Structures</b> and <b>Smart Pointers</b>.
     <br>
     <br>
-    <a href="https://github.com/LielAmar/Workshop-in-C-CPP"><strong>« Home Page</strong></a>
+    <a href="https://github.com/OmerFerster/Workshop-in-C-CPP"><strong>« Home Page</strong></a>
     <br>
   </p>
 </div>
